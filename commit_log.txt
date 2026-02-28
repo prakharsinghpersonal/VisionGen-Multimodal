@@ -1,2 +1,3 @@
 - Commit 2 (Vision Encoder): Implement and load the pre-trained ResNet-50 model. Write the feature extraction pipeline to pull visual hierarchies from input images using OpenCV for preprocessing.
 - Commit 3 (Text & Fusion): Implement the transformer text encoder for the questions. Build the cross-attention or multimodal fusion layer that combines ResNet visual features with transformer embeddings.
+- Commit 4 (Explainability): Integrate an explainability module (e.g., Grad-CAM) to generate heatmaps showing which parts of the image the model focuses on when answering.
