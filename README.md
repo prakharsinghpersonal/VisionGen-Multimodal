@@ -1,0 +1,1 @@
+# VisionGen-Multimodal\n\n**VisionGen: Explainable Multimodal AI - Multimodal deep learning pipeline fusing ResNet-50 visual features with transformer embeddings.**\n\n## Tech Stack\n- Python\n- CNNs\n- Transformers\n- OpenCV\n
