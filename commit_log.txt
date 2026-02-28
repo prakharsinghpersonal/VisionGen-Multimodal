@@ -1,0 +1,1 @@
+- Commit 2 (Vision Encoder): Implement and load the pre-trained ResNet-50 model. Write the feature extraction pipeline to pull visual hierarchies from input images using OpenCV for preprocessing.
