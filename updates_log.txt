@@ -1,0 +1,1 @@
+- Extend VisionGen-Multimodal by integrating a diffusion-based generative world model. Add a testing script that evaluates the system's ability to predict and synthesize the next frame of complex driving scenarios (using a dataset like nuScenes) to improve decision-making context.
